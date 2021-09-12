@@ -1,2 +1,2 @@
 # Game-of-Life
-This project aims at simulating Conway's Game of Life (which is an automata) and creating an animation of the automata.
+This project aims at simulating an automata famously called Conway's Game of Life and creating an animation of the automata.
